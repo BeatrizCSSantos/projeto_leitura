@@ -1,17 +1,17 @@
-# 🏪 Livraria Online "Leitura Plus" - Banco de Dados
+#  Livraria Online "Leitura Plus" - Banco de Dados
 
-## 📋 Descrição do Projeto
+##  Descrição do Projeto
 
 Sistema de banco de dados para gerenciamento de uma livraria online, desenvolvido em MySQL com foco em normalização e integridade referencial.
 
-## 🗃️ Estrutura do Banco
+##  Estrutura do Banco
 
 - **11 tabelas** principais
 - **4 tabelas associativas** para relacionamentos N:N
 - Modelo normalizado até 3FN
 - Índices e constraints de integridade
 
-## 🚀 Como Executar
+##  Como Executar
 
 **Pré-requisitos**
 
